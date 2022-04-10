@@ -10,6 +10,7 @@
 
 # **Linear List**
 
+↓I prepared a image below. But I can't show it after I try each way.
 <!-- structure chart of linear list-->
 ![](https://raw.githubusercontent.com/JLU-WUHU111/Unit1/master/linearlist.jpg)
 1. Basic operations for linear list
